@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **React, Spring boot**
+- 💬 Ask me about **DSA, System Design, React, Spring boot**
 
 - 📫 How to reach me **cs.sde07@gmail.com**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,spring,mongodb,mysql,git,github,docker,linux,postman" />
+</p>
 
