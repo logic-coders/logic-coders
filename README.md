@@ -126,15 +126,6 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-Java%20Development-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
-### Computer Science & Engineering
-
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Systems-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Design-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-Software%20Architecture-008080?style=for-the-badge" />
-</p>
-
 ---
 
 ## Featured Project — QuantPulse AI
@@ -145,11 +136,12 @@
 
 **Key capabilities:**
 
-- Track and manage stocks within an investment portfolio
-- Generate AI-driven stock analysis and recommendations
-- Provide an **AI Score** representing recommendation confidence and estimated risk
-- Generate insights on whether a stock should be held based on current performance and analysis
-- Combine market data with AI-powered decision-making workflows
+- **AI-Powered Stock Analysis** — Evaluates market performance and technical indicators to generate actionable insights.
+- **AI Confidence Score** — Measures the strength of each recommendation based on available market signals.
+- **Smart Portfolio Allocation** — Suggests optimal allocation percentages for individual stocks.
+- **Dynamic Target Price** — Estimates potential target prices and upside opportunities.
+- **Interactive Market Charts** — Supports multiple timeframes including `1D`, `1M`, `6M`, `1Y`, and `5Y`.
+- **Portfolio Performance Tracking** — Tracks total value, returns, active positions, and individual stock performance.
 
 **Technical Focus:** `AI Agents` • `LLMs` • `Backend Engineering` • `REST APIs` • `Market Data Integration`
 
