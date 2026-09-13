@@ -127,22 +127,3 @@
 </p>
 
 ---
-
-## Featured Project — QuantPulse AI
-
-### AI-Powered Portfolio Intelligence Platform
-
-**QuantPulse AI** is an AI-powered portfolio management platform designed to analyze stock performance and provide intelligent, actionable insights.
-
-**Key capabilities:**
-
-- **AI-Powered Stock Analysis** — Evaluates market performance and technical indicators to generate actionable insights.
-- **AI Confidence Score** — Measures the strength of each recommendation based on available market signals.
-- **Smart Portfolio Allocation** — Suggests optimal allocation percentages for individual stocks.
-- **Dynamic Target Price** — Estimates potential target prices and upside opportunities.
-- **Interactive Market Charts** — Supports multiple timeframes including `1D`, `1M`, `6M`, `1Y`, and `5Y`.
-- **Portfolio Performance Tracking** — Tracks total value, returns, active positions, and individual stock performance.
-
-**Technical Focus:** `AI Agents` • `LLMs` • `Backend Engineering` • `REST APIs` • `Market Data Integration`
-
----
