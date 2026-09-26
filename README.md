@@ -29,9 +29,9 @@
 
 ### Achievements
 
-- 🧩 Solved 1000+ algorithmic problems across LeetCode and GeeksforGeeks — strong depth in Graphs, Trees, Dynamic Programming, Greedy, and Backtracking.
-- 🥇 Global Rank 14 in CodeChef Starters 67 among 10,000+ participants — top 0.014% globally.
-- 👥 Founded and scaled **ZERO ONE Coding Club** to 1,000+ active members, mentoring in competitive programming and system design.
+-  Solved 1000+ algorithmic problems across LeetCode and GeeksforGeeks — strong depth in Graphs, Trees, Dynamic Programming, Greedy, and Backtracking.
+-  Global Rank 14 in CodeChef Starters 67 among 10,000+ participants — top 0.014% globally.
+-  Founded and scaled **ZERO ONE Coding Club** to 1,000+ active members, mentoring in competitive programming and system design.
 
 ---
 
